@@ -8,7 +8,7 @@ wasting time going through all the recordings everyday to see the condition of t
 ### The technologies used to build this
 "*"Jupyter Notebook 
 "*"Visual Studio code 
-*Pytorch - For Object detection using YoloV5
+* Pytorch - For Object detection using YoloV5
 *Yolov5 - for classification of adults and child
 *Tensorflow - To build a custom neural network
 *Anaconda -To manage different environemnts (Kafka,Django,ML project)
