@@ -6,13 +6,13 @@ them to be alerted imediately as well as the parents can use the timestamp to wa
 wasting time going through all the recordings everyday to see the condition of the child.
 
 ### The technologies used to build this
-Jupyter Notebook 
-Visual Studio code 
-Pytorch - For Object detection using YoloV5
-Yolov5 - for classification of adults and child
-Tensorflow - To build a custom neural network
-Anaconda -To manage different environemnts (Kafka,Django,ML project)
-Kafka - Used to integrate ML project and Django 
-Mediapipe
-Django
+*Jupyter Notebook 
+*Visual Studio code 
+*Pytorch - For Object detection using YoloV5
+*Yolov5 - for classification of adults and child
+*Tensorflow - To build a custom neural network
+*Anaconda -To manage different environemnts (Kafka,Django,ML project)
+*Kafka - Used to integrate ML project and Django 
+*Mediapipe
+*Django
 
