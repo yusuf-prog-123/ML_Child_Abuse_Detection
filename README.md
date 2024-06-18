@@ -16,3 +16,5 @@ wasting time going through all the recordings everyday to see the condition of t
 * Mediapipe
 * Django
 
+
+
