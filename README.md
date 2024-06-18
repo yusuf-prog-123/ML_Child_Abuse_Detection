@@ -1,2 +1,9 @@
 # ML_Child_Abuse_Detection
-this is a Computer vision project that demostrates how it detects any form of child abuse by caretaker or any other personal
+This is a Computer vision project that demostrates how it detects any form of child abuse by caretaker or any other personal.
+Although it was specfically created for obeservation of the child in the situation where parents leave there children in the care
+of a caretaker ,if any sort of harm happens to the chhild the app will immediately notify the parent with the time stamp on it ,this allows
+them to be alerted imediately as well as the parents can use the timestamp to watch where this abuse started in the camera recording this could help them prvent
+wasting time going through all the recordings everyday to see the condition of the child.
+
+### The technologies used to build this
+
