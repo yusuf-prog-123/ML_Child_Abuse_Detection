@@ -15,5 +15,3 @@ wasting time going through all the recordings everyday to see the condition of t
 * Kafka - Used to integrate ML project and Django 
 * Mediapipe
 * Django
-
-https://www.youtube.com/watch?v=pSoOFdJ8fFo
