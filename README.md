@@ -16,4 +16,7 @@ wasting time going through all the recordings everyday to see the condition of t
 * Mediapipe
 * Django
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pSoOFdJ8fFo?si=3OJSXUFpVKBb_PTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+https://github.com/yusuf-prog-123/ML_Child_Abuse_Detection/assets/117608882/99d38f97-51fa-4538-bd0f-073acb03dd2c
+
